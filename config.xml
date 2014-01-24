@@ -15,6 +15,8 @@
     <author href="http://basswalk.com" email="robert.skrlec@gmail.com.com">
         Basswalk Team
     </author>
+    
+    <icon src="icon.png" width="128" height="128"/>
 
     <!--
         If you do not want any permissions to be added to your app, add the
